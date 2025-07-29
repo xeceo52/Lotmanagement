@@ -24,15 +24,6 @@
   <li><strong>База данных:</strong> MySQL</li>
 </ul>
 
-## Требования
-
-<ul>
-  <li>PHP ≥ 8.1</li>
-  <li>Composer</li>
-  <li>Node.js ≥ 14 и NPM или Yarn</li>
-  <li>MySQL (или SQLite для простого старта)</li>
-</ul>
-
 ## Установка и запуск
 
 ```bash
