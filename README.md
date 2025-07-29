@@ -21,7 +21,7 @@
   <li><strong>Backend:</strong> Laravel 12, PHP 8.2</li>
   <li><strong>Frontend:</strong> Blade-шаблоны, JavaScript (ES6+), Axios, Vite</li>
   <li><strong>Стилизация:</strong> Tailwind CSS</li>
-  <li><strong>База данных:</strong> MySQL или SQLite</li>
+  <li><strong>База данных:</strong> MySQL</li>
 </ul>
 
 ## Требования
